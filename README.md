@@ -2,7 +2,7 @@
  Scattering of an spherical wavefront over several thin scattering layers
 
 
-The code generates a point source at a fixed {x,y,z} position. The source generates an spherical wave that propagates to the first scattering layer. Then the field id multiplied by a random phase (representing the thin scattering layer). After that, the field propagates to the next thin layer, and so on. After the last thin layer, the field is propagated once more, and the intensity is measured with a CCD.
+The code generates a point source at a fixed {x,y,z} position. The source generates an spherical wave that propagates to the first scattering layer. Then the field is multiplied by a random phase (representing the thin scattering layer). After that, the field propagates to the next thin layer, and so on. After the last thin layer, the field is propagated once more, and the intensity is measured with a CCD.
 
 Propagation is done through Fresnel propagation (near field)
 
