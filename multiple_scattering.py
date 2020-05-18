@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Demo for Fresnel through multiple thin scattering layers. Generates a point
+Demo for Fresnel propagation through multiple thin scattering layers. Generates a point
 source at fixed position, then N thin layers with random phase distributions
 at fixed distances from the source. Source emits an spherical wave that travels
 through the whole system. Finally, an image of the speckle pattern is captured
