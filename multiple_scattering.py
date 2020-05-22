@@ -6,7 +6,6 @@ at fixed distances from the source. Source emits an spherical wave that travels
 through the whole system. Finally, an image of the speckle pattern is captured
 with a CCD (intensity)
 
-@author: Fer
 """
 # %% Import stuff
 # for plotting
